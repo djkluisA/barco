@@ -1,0 +1,5 @@
+QLabel{font-size: 20px; color:white;}
+MyContenido{ background-color :blue;} 
+MyRadioLink{background-color : blue;}
+QPushButton{ background-color :green; color: white;font-size: 15px;}
+CheckableComboBox{ background-color :black; color: white;font-size: 15px; }

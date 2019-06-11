@@ -1,0 +1,14 @@
+QPushButton{ background-color :green; color: white;font-size: 15px; }
+QComboBox{ background-color :black; font-size: 15px;color: white; }
+QInputDialog{background-color :black; color: white;font-size: 15px;}
+QLabel{font-size: 20px; color: white;}
+QTableWidget{background-color : #fffff0;}  
+MyBarco{ background-color : blue;}
+MainWindow{ background-color : blue;}
+MyContenido{ background-color : blue;}
+MySimula{ background-color : blue;}
+MyEstado{ background-color : blue;}
+MyGraficos{ background-color : blue;}
+MyCombinar{ background-color : blue;}
+MyBoton{ background-color : blue;}
+MyCadena{ background-color : blue;}
