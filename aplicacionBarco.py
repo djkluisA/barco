@@ -322,7 +322,7 @@ class MyRadioLink(QWidget):
    
        self.close()
      except:
-        self.mostrarError.setText("Falla, no hay barcos ni cadenas, cerrar ventana")
+        self.mostrarError.setText("Falla, no hay barcos ni cadenas???, cerrar ventana")
         self.mostrarError.setOpenExternalLinks(True)
         
 
